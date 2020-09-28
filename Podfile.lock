@@ -2,17 +2,21 @@ PODS:
   - CYLTabBarController (1.24.2):
     - CYLTabBarController/Core (= 1.24.2)
   - CYLTabBarController/Core (1.24.2)
+  - YYModel (1.0.4)
 
 DEPENDENCIES:
   - CYLTabBarController (~> 1.24.0)
+  - YYModel
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - CYLTabBarController
+    - YYModel
 
 SPEC CHECKSUMS:
   CYLTabBarController: e7440ad0992edfb8ac14a6c793f43aa636c5cba5
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
-PODFILE CHECKSUM: 1e6f49e6b23c20aa5058b6c8384ed3d6d97d17f9
+PODFILE CHECKSUM: f5e599069b1c3918716e0f5afe55cbfa69aaec42
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.9.1
